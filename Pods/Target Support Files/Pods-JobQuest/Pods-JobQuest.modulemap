@@ -1,0 +1,6 @@
+framework module Pods_JobQuest {
+  umbrella header "Pods-JobQuest-umbrella.h"
+
+  export *
+  module * { export * }
+}
